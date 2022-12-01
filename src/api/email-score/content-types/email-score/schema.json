@@ -1,10 +1,10 @@
 {
   "kind": "collectionType",
-  "collectionName": "leader_boards",
+  "collectionName": "email_scores",
   "info": {
-    "singularName": "leader-board",
-    "pluralName": "leader-boards",
-    "displayName": "Leader_Board",
+    "singularName": "email-score",
+    "pluralName": "email-scores",
+    "displayName": "Email_Score",
     "description": ""
   },
   "options": {
